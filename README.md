@@ -1,2 +1,4 @@
-# FlappyDoom-py
-Flappy bird made in python with doom theming
+# FlappyDooM
+DooM-style FlapyBird game in Python Pygame
+
+![flappy_doom](screenshot/0.jpg "flappy_doom")
